@@ -1,5 +1,5 @@
 {
-  "name": "ta10",
+  "name": "ta11",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "ta10": "file:",
+    "ta11": "file:",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
